@@ -5,6 +5,7 @@ Installation of a Linux distribution on a virtual machine and prepare it to host
 * The EC2 URL is : `http://ec2-18-196-33-29.eu-central-1.compute.amazonaws.com/`
 * Local IP address: `http://18.196.33.29/`
 * SSH port- `2200`
+* Passphrase: iamroot
 
 **Resources -** [Add User and give permissions](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps)
 
